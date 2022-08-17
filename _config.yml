@@ -1,5 +1,6 @@
 layout: sidebar
-style: light
+style: dark 
+#light
 
 plugins:
   - jekyll-octicons
@@ -21,7 +22,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 12
   exclude:
     archived: false
     forks: true
@@ -35,12 +36,12 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+   linkedin: your_username
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
+    telegram: your_username
+    twitter: your_username
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
